@@ -8,7 +8,8 @@
 
 ## Usage
 
-> [!NOTE] This project is made for training\educational reason.
+> [!NOTE]
+> This project is made for training\educational reason.
 
 ### Import
 
