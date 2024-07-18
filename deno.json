@@ -1,0 +1,8 @@
+{
+  "lock": false,
+  "exclude": [".github/"],
+  "fmt": { "lineWidth": 100 },
+  "tasks": {
+    "check": "deno fmt && deno lint && deno check mod.ts"
+  }
+}
